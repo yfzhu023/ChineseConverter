@@ -9,6 +9,7 @@
 
 
 比较细致的控制 datagridview 的代码：
+
 dataGridView1.MultiSelect = false;
 dataGridView1.ReadOnly = true;
 dataGridView1.SelectionMode = DataGridViewSelectionMode.RowHeaderSelect;
